@@ -1,15 +1,16 @@
 # Lumo QuickTab - Electron <img src="https://github.com/Jake-makes/lumo-quicktab/blob/main/assets/tray-icon.png" width="25">
 
-![{A4C89D95-D86A-4835-814D-70DB4C1772CD}]({Image})
+<img width="709" height="952" alt="image" src="https://github.com/user-attachments/assets/cab0ed64-4a33-46be-a4dc-e4f7654ca729" />
+
 
 A minimal Electron wrapper for Lumo Chat that runs in your system tray with a convenient popup window.
 
 ## Features
 
-- (NEW!) Auto-update
-- (NEW!) Fresh new icon
-- (NEW!) Persistent login sessions
-- (NEW!) Configurable auto-start
+- Auto-update
+- Fresh new icon
+- Persistent login sessions
+- Configurable auto-start
 - Quick access to Lumo Chat from your taskbar
 - Small popup window that appears above your taskbar icon
 - Click outside to close the popup
